@@ -1,3 +1,6 @@
 Changelog for Dist-Zilla-PluginBundle-CPANTesters
 
 {{ $NEXT }}
+
+  - Initial release: A copy of all the non-dist-specific Dist::Zilla rules
+    from one of the CPAN Testers projects (cpantesters-schema, I believe).
