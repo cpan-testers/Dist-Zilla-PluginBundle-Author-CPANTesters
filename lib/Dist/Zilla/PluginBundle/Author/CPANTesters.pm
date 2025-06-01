@@ -1,5 +1,5 @@
 package Dist::Zilla::PluginBundle::Author::CPANTesters;
-our $VERSION = '0.002';
+our $VERSION = '0.003';
 # ABSTRACT: Dist::Zilla plugin bundle for CPAN Testers applications
 
 =head1 SYNOPSIS
