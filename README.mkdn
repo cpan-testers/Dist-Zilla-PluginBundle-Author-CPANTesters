@@ -4,7 +4,7 @@ Dist::Zilla::PluginBundle::Author::CPANTesters - Dist::Zilla plugin bundle for C
 
 # VERSION
 
-version 0.001
+version 0.002
 
 # SYNOPSIS
 
