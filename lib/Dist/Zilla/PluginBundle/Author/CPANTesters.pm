@@ -127,6 +127,12 @@ sub configure {
       },
     ],
     'Git::Push',
+
+    [
+      'Run::AfterRelease', 'clean up release dirs', {
+        run => 'rm -rf %a %d',
+      },
+    ],
   );
 
   # XXX: How to add authordep Pod::Weaver::Section::Contributors?

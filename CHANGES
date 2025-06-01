@@ -2,6 +2,8 @@ Changelog for Dist-Zilla-PluginBundle-CPANTesters
 
 {{ $NEXT }}
 
+- Added a clean up for the release tarballs after a release is cut
+
 0.001     2025-05-12 15:38:30-05:00 America/Chicago
 
   - Initial release: A copy of all the non-dist-specific Dist::Zilla rules
